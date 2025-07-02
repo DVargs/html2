@@ -1,3 +1,12 @@
 body{
     background-color: grey;
 }
+nav{
+    background-color: aqua;
+}
+h1{
+    color: blueviolet;
+}
+.servidor{
+    width: 30%;
+}
